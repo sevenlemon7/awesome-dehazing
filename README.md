@@ -48,7 +48,7 @@ A curated list of image/video dehazing papers.
 | 2020 | CVPR | [Domain Adaptation for Image Dehazing](https://arxiv.org/abs/2005.04668)|[PyTorch](https://github.com/shawnchen63/DA_dahazing)| - |
 | 2020 | CVPR | [Multi-Scale Boosted Dehazing Network with Dense Feature Fusion](https://arxiv.org/abs/2004.13388)|[PyTorch](https://github.com/BookerDeWitt/MSBDN-DFF)| - |
 | 2020 | CVPR | [BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf)|- | - |
-| 2020 | CVPR | [Distilling Image Dehazing With Heterogeneous Task Imitation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf)|[-](https://github.com/FadeoN/Distilling-Image-Dehazing-With-Heterogeneous-Task-Imitation) | - |
+| 2020 | CVPR | [Distilling Image Dehazing With Heterogeneous Task Imitation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf)|[PyTorch](https://github.com/FadeoN/Distilling-Image-Dehazing-With-Heterogeneous-Task-Imitation) | - |
 | 2020 | ECCV | [HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf) | [404](https://github.com/huangzilingcv/HardGAN) | - |
 | 2020 | ECCV | [Physics-based Feature Dehazing Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)|- | - |
 | 2020 | TPAMI| [Single Image Dehazing Using Haze-Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8540862)|-|-|
