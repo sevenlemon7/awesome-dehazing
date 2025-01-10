@@ -1,5 +1,4 @@
-# Awesome Dehazing
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Dehazing[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 A curated list of image/video dehazing papers.
 
 ## Paper
