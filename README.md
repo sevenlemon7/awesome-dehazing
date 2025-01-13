@@ -9,8 +9,8 @@ A curated list of image/video dehazing papers.
 | 2024 | CVPR | [Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Driving-Video_Dehazing_with_Non-Aligned_Regularization_for_Safety_Assistance_CVPR_2024_paper.html) | [PyTorch](https://github.com/fanjunkai1/DVD) | - |
 | 2023 | CVPR | [Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior](https://arxiv.org/abs/2303.09757) | [PyTorch](https://github.com/jiaqixuac/MAP-Net) | - |
 | 2021 | CVPR | [Learning to Restore Hazy Video: A New Real-World Dataset and A New Method](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)|- | -|
-
-
+| 2019 | TIP  | [ Deep Video Dehazing With Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8492451)|- | -|
+| 2011 | TVC  | [Video dehazing with spatial and temporal coherence](https://link.springer.com/article/10.1007/s00371-011-0569-8)| -|-|
 
 ### Image
 | Year | Published | Paper | Code / Project Page | Keywords |
@@ -40,7 +40,7 @@ A curated list of image/video dehazing papers.
 | 2022 | ECCV | [Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/255_ECCV_2022_paper.php) | - | Unpaired |
 | 2022 | TIP  | [Dual-Scale Single Image Dehazing via Neural Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9901449)|-|-|
 | 2021 | CVPR | [Contrastive Learning for Compact Single Image Dehazing](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.pdf)|[PyTorch](https://github.com/GlassyWu/AECR-Net)|-|
-| 2021 | CVPR | [Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)||-|
+| 2021 | CVPR | [Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)|[Pytorch](https://github.com/zzr-idam/4KDehazing)|-|
 | 2021 | CVPR | [PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf)|[Pytorch](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)|-|
 | 2021 | TIP  | [RefineDNet: A Weakly Supervised Refinement Framework for Single Image Dehazing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366772)|-|-|
 | 2021 | TIP  | [Single Image Dehazing via Dual-Path Recurrent Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9435998)|-|-|
@@ -59,6 +59,7 @@ A curated list of image/video dehazing papers.
 | 2020 | TIP  | [Task-Oriented Network for Image Dehazing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088248)|-|-|
 | 2020 | TIP  | [Fast Single Image Dehazing Using Saturation Based Transmission Map Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8882514)|-|-|
 | 2020 | TIP  | [Unsupervised Single Image Dehazing Using Dark Channel Prior Loss](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897130)|-|-|
+
 
 
 
