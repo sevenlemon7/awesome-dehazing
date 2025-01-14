@@ -6,10 +6,14 @@ A curated list of image/video dehazing papers.
 
 | Year | Published | Paper | Code / Project Page | Keywords |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2025 | IJCV | [Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization](https://link.springer.com/article/10.1007/s11263-024-02161-0)|-|Spatial–temporal consistency|
 | 2024 | CVPR | [Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Driving-Video_Dehazing_with_Non-Aligned_Regularization_for_Safety_Assistance_CVPR_2024_paper.html) | [PyTorch](https://github.com/fanjunkai1/DVD) | - |
+| 2024 | TIP  | [Depth-Aware Unpaired Video Dehazing](https://ieeexplore.ieee.org/document/10478286)|[Private]( https://github.com/YaN9-Y)|-|
 | 2023 | CVPR | [Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior](https://arxiv.org/abs/2303.09757) | [PyTorch](https://github.com/jiaqixuac/MAP-Net) | - |
+| 2023 |JRTIP | [Novel parametric based time efficient portable real-time dehazing system](https://link.springer.com/article/10.1007/s11554-023-01283-x)|-|-|
+| 2022 | ACM  | [Phase-based Memory Network for Video Dehazing](https://dl.acm.org/doi/pdf/10.1145/3503161.3547998)|[Pytorch](https://github.com/liuye123321/PM-Net)|-|
 | 2021 | CVPR | [Learning to Restore Hazy Video: A New Real-World Dataset and A New Method](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)|- | -|
-| 2019 | TIP  | [ Deep Video Dehazing With Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8492451)|- | -|
+| 2019 | TIP  | [Deep Video Dehazing With Semantic Segmentation](https://ieeexplore.ieee.org/document/8492451)|- | -|
 | 2011 | TVC  | [Video dehazing with spatial and temporal coherence](https://link.springer.com/article/10.1007/s00371-011-0569-8)| -|-|
 
 ### Image
@@ -59,7 +63,3 @@ A curated list of image/video dehazing papers.
 | 2020 | TIP  | [Task-Oriented Network for Image Dehazing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088248)|-|-|
 | 2020 | TIP  | [Fast Single Image Dehazing Using Saturation Based Transmission Map Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8882514)|-|-|
 | 2020 | TIP  | [Unsupervised Single Image Dehazing Using Dark Channel Prior Loss](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897130)|-|-|
-
-
-
-
