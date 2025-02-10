@@ -22,9 +22,9 @@ A curated list of image/video dehazing papers.
 | Year | Published | Paper | Code / Project Page | Keywords |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2024 | AAAI | [SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/28340)|[Pytorch](https://github.com/supersupercong/SelfPromer)|-|
-| 2024 | CVPRW| [DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Dong_DehazeDCT_Towards_Effective_Non-Homogeneous_Dehazing_via_Deformable_Convolutional_Transformer_CVPRW_2024_paper.pdf)|[PyTorch](https://github.com/movingforward100/Dehazing_R)|非均匀去雾|
-| 2024 | CVPRW| [Two Stage Dehazing Framework for Dense and Non-Homogeneous Dehazing](https://ieeexplore.ieee.org/document/10678252)|[Pytorch](https://github.com/movingforward100/Dehazing_R)|非均匀去雾|
-| 2024 | CVPRW| [SDCNet: Spatially-Adaptive Deformable Convolution Networks for HR NonHomogeneous Dehazing](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Liu_SDCNetSpatially-Adaptive_Deformable_Convolution_Networks_for_HR_NonHomogeneous_Dehazing_CVPRW_2024_paper.pdf)|[PyTorch](https://github.com/wanxingDaze/NTIRE2024_SDCNet)| 非均匀去雾|
+| 2024 | CVPRW| [DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Dong_DehazeDCT_Towards_Effective_Non-Homogeneous_Dehazing_via_Deformable_Convolutional_Transformer_CVPRW_2024_paper.pdf)|[PyTorch,no train](https://github.com/movingforward100/Dehazing_R)|非均匀去雾|
+| 2024 | CVPRW| [Two Stage Dehazing Framework for Dense and Non-Homogeneous Dehazing](https://ieeexplore.ieee.org/document/10678252)|- |非均匀去雾|
+| 2024 | CVPRW| [SDCNet: Spatially-Adaptive Deformable Convolution Networks for HR NonHomogeneous Dehazing](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Liu_SDCNetSpatially-Adaptive_Deformable_Convolution_Networks_for_HR_NonHomogeneous_Dehazing_CVPRW_2024_paper.pdf)|[PyTorch,no train](https://github.com/wanxingDaze/NTIRE2024_SDCNet)| 非均匀去雾|
 | 2024 | CVPR | [A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint](https://arxiv.org/abs/2403.18548) | [Pytorch](https://github.com/Xiaofeng-life/SFSNiD) | - |
 | 2024 | CVPR | [Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing](https://arxiv.org/abs/2403.01105) | [Pytorch](https://github.com/Xiaofeng-life/SFSNiD) | - |
 | 2024 | CVPR | [ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing](https://arxiv.org/abs/2404.17825v1) |- | - |
@@ -34,8 +34,9 @@ A curated list of image/video dehazing papers.
 | 2024 | TPAMI| [Advancing Real-World Image Dehazing: Perspective, Modules, and Training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10564179)|-|-|
 | 2023 | CVPR | [RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors](https://arxiv.org/abs/2304.03994) | [PyTorch](https://github.com/RQ-Wu/RIDCP) | - |
 | 2023 | CVPR | [Curricular Contrastive Regularization for Physics-aware Single Image Dehazing](https://arxiv.org/abs/2303.14218) | [PyTorch](https://github.com/YuZheng9/C2PNet) | - |
-| 2023 | CVPR | [SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous Image Dehazing](https://arxiv.org/abs/2304.08444) | [PyTorch](https://github.com/gy65896/SCANet) | Workshop |
 | 2023 | CVPR | [Streamlined Global and Local Features Combinator (SGLC) for High Resolution Image Dehazing](https://arxiv.org/abs/2304.13375) | - | - |
+| 2023 | CVPRW| [SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous Image Dehazing](https://arxiv.org/abs/2304.08444) | [PyTorch](https://github.com/gy65896/SCANet) | 非均匀去雾 |
+| 2023 | CVPRW| [A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer](https://arxiv.org/pdf/2304.07874)|[PyTorch](https://github.com/yangyiliu21/ntire2023_ITBdehaze)| 非均匀去雾 |
 | 2023 | ICCV | [MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing](https://arxiv.org/abs/2308.14036)|[PyTorch](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)| - |
 | 2023 | TIP  | [TUSR-Net: Triple Unfolding Single Image Dehazing With Self-Regularization and Dual Feature to Pixel Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043627)| - | - |
 | 2023 | TIP  | [Vision Transformers for Single Image Dehazing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10076399)|-|-|
