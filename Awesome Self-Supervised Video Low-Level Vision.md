@@ -16,8 +16,6 @@ A curated list of self-supervised video low-level vision papers.
 | Year | Published | Paper | Code / Project Page | Keywords |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2023 | CVPR | [A Simple Baseline for Video Restoration with Grouped Spatial-Temporal Shift](https://ieeexplore.ieee.org/document/10203329)|[Pytorch](https://github.com/dasongli1/Shift-Net)|-|
-| 2023 | CVPR | [A Simple Baseline for Video Restoration with Grouped Spatial-Temporal Shift](https://ieeexplore.ieee.org/document/10203329)|[Pytorch](https://github.com/dasongli1/Shift-Net)|-|
-| 2022 | CVPRW | [Progressive Training of A Two-Stage Framework for Video Restoration](https://ieeexplore.ieee.org/document/10203329)|[Pytorch](https://github.com/ryanxingql/winner-ntire22-vqe)|-|
 | 2022 | CVPRW | [Progressive Training of A Two-Stage Framework for Video Restoration](https://ieeexplore.ieee.org/document/10203329)|[Pytorch](https://github.com/ryanxingql/winner-ntire22-vqe)|-|
 | 2025 | ESWA | [Hierarchical candidate recursive network for highlight restoration in endoscopic videos](https://www.sciencedirect.com/science/article/pii/S0957417424026873?via%3Dihub)|-|-|
 | 2024 | IJCNN | [Laparoscopic Video Desmoking With Mutually Attention-Guided Deformable Convolutional Networks and LBP Prior](https://ieeexplore.ieee.org/document/10651249)|-|-|
