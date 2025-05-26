@@ -9,8 +9,8 @@ A curated list of self-supervised video low-level vision papers.
 | 2024 | CVPRW | [Unsupervised Microscopy Video Denoising](https://ieeexplore.ieee.org/document/10678589)|[Pytorch](https://github.com/maryaiyetigbo/UMVD)|-|
 | 2022 | ECCV | [Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-Ahead Forward Ones](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_34)|[Pytorch](https://github.com/nagejacob/FloRNN)|-|
 | 2025 | AAAI | [ReMoNet: Recurrent Multi-Output Network for Efficient Video Denoising](https://ojs.aaai.org/index.php/AAAI/article/view/32242)|[Pytorch](https://github.com/ZKCCZ/STBN)|-|
-| 2022 | AAAI | [Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising](https://ojs.aaai.org/index.php/AAAI/article/view/20182)|[Pytorch](https://github.com/xiangly55/ReMoNet)|-|
-| 2023 | AAAI | [Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising](https://ojs.aaai.org/index.php/AAAI/article/view/20182)|[Pytorch](https://github.com/xiangly55/ReMoNet)|-|
+| 2025 | AAAI | [Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising](https://ojs.aaai.org/index.php/AAAI/article/view/20182)|[Pytorch]([https://ojs.aaai.org/index.php/AAAI/article/view/32242))|-|
+
 
 ### Resoration
 | Year | Published | Paper | Code / Project Page | Keywords |
